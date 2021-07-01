@@ -1,2 +1,2 @@
-# Operating-System-
+# OperateSystem
 OS Study
